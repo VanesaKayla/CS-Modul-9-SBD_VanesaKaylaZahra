@@ -14,7 +14,7 @@ export default function TravelokaPage() {
 
   return (
     <div className="min-h-screen bg-white dark:bg-slate-900 font-sans transition-colors duration-300">
-      {/* ── BLUE HERO — mountain background ── */}
+      {}
       <div
         className="pb-10"
         style={{
@@ -36,7 +36,7 @@ export default function TravelokaPage() {
         <SearchBox activeTab={activeTab} />
       </div>
 
-      {/* ── WHITE SECTIONS ── */}
+      {}
       <PromoSection />
 
       <hr className="border-0 border-t border-gray-100" />
